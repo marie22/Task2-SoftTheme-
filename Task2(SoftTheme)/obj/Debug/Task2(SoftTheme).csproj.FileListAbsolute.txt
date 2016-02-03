@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2012\Projects\Task2(SoftTheme)\Task2(SoftTheme)\bin\Debug\Task2(SoftTheme).exe.config
+c:\users\pc\documents\visual studio 2012\Projects\Task2(SoftTheme)\Task2(SoftTheme)\bin\Debug\Task2(SoftTheme).exe
+c:\users\pc\documents\visual studio 2012\Projects\Task2(SoftTheme)\Task2(SoftTheme)\bin\Debug\Task2(SoftTheme).pdb
+c:\users\pc\documents\visual studio 2012\Projects\Task2(SoftTheme)\Task2(SoftTheme)\obj\Debug\Task2(SoftTheme).csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\Task2(SoftTheme)\Task2(SoftTheme)\obj\Debug\Task2(SoftTheme).exe
+c:\users\pc\documents\visual studio 2012\Projects\Task2(SoftTheme)\Task2(SoftTheme)\obj\Debug\Task2(SoftTheme).pdb
